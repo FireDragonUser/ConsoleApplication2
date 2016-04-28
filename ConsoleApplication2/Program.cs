@@ -12,6 +12,7 @@ namespace ConsoleApplication2
         {
             System.Console.WriteLine("hallo");
             System.Console.WriteLine("hallo2");
+            System.Console.WriteLine("hsfda");
         }
     }
 }
